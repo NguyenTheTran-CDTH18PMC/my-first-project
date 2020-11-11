@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DANH SÁCH PHIM</string>
+    <string name="tab_text_1">ĐANG CHẾU</string>
+    <string name="tab_text_2">SẮP CHIẾU</string>
+    <string name="ti_c_tr_ng_m_u">Tiệc Trăng Máu</string>
+    <string name="search_hint">Tìm Kiếm</string>
+    <string name="abc">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+</resources>
